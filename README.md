@@ -1,5 +1,6 @@
 # createScreenScene
---
+
+## 系统必备
 需要安装dotnet core
 
 https://www.microsoft.com/net/download
@@ -26,3 +27,7 @@ Macos或者Linux请根据官方文档下载和安装dotnet core
 (Windows系统在第一次运行时需要联网下载文件）
 
 本项目运行时的dotnet core版本是2.1
+
+## 功能
+
+根据屏幕尺寸，创建大场景地图
